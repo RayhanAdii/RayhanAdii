@@ -4,6 +4,8 @@
 📍  Sleman, Yogyakarta <br />
 🏫 Information Technology Student at Universitas Gadjah Mada <br />
 
+Nice to meet you!
+
 
 
 <!--
