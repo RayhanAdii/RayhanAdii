@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👦 Rayhan Adi Wicaksono
+📍  Sleman, Yogyakarta
+🏫 Information Technology Student at Universitas Gadjah Mada
+
+
+
 <!--
 **Acediaa13/Acediaa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
