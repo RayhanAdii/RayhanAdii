@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 👦 Rayhan Adi Wicaksono <br />
-📍   Sleman, Yogyakarta <br />
+🌏 Sleman, Yogyakarta <br />
 🏫 Information Technology Student at Universitas Gadjah Mada <br />
+🔍 Currently interested in data science / data engineering
 
 Nice to meet you!
 
