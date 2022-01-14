@@ -3,7 +3,7 @@
 👦 Rayhan Adi Wicaksono <br />
 🌏 Sleman, Yogyakarta <br />
 🏫 Information Engineering Student at Universitas Gadjah Mada <br />
-🔍 Currently interested in data science / data engineering
+🔍 Currently interested in data science
 
 Nice to meet you!
 
