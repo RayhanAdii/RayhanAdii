@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi! 👋
 
-👦 Rayhan Adi Wicaksono <br />
-🌏 Sleman, Yogyakarta <br />
-🏫 Information Engineering Student at Universitas Gadjah Mada <br />
-🔍 Currently interested in data science
+🏫 2nd Year Information Engineering Student at Universitas Gadjah Mada, Indonesia <br />
+🔍 Currently interested in Data Science and trying to explore Full Stack Web Development
+⚡ Love Cat, Coffee, and Code!
 
-Nice to meet you!
 
 
 
