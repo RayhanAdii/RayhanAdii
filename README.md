@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-🏫 2nd Year Information Engineering Student at Universitas Gadjah Mada, Indonesia <br />
+🏫 3rd Year Information Engineering Student at Universitas Gadjah Mada, Indonesia <br />
 🔍 Currently interested in Data Science and trying to explore Full Stack Web Development<br />
 ⚡ Love Cat, Coffee, and Code!
 
