@@ -6,6 +6,11 @@
 - ⛩️ 日本語 enthusiast <br/>
 - 🌱 Feel free to reach me!
 
+### Github Stats 🤔
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanAdii&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanAdii&layout=compact&theme=tokyonight)
+
 ### よろしくお願いします！
 
 
