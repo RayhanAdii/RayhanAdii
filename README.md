@@ -5,6 +5,7 @@
 - ⚡ Love Cat🐈 and Coffee☕ <br/>
 - ⛩️ 日本語 enthusiast <br/>
 - 🌱 Feel free to reach me!
+- 🐧 Code in Linux Ubuntu and Windows (WSL :p)
 
 ### Github Stats 🤔
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanAdii&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
