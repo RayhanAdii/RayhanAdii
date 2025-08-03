@@ -1,7 +1,7 @@
 ### Hi!👋
 
-- 🏫 Final Year Information Engineering Student at Universitas Gadjah Mada, Indonesia <br />
-- 🔍 Currently interested in Data Science and AI Engineering<br />
+- 🏫 Fresh Graduate of Information Engineering from Universitas Gadjah Mada, Indonesia <br />
+- 🔍 Currently interested in Data Science, including Computer Vision and AI Engineering<br />
 - ⚡ Love Cat🐈 and Coffee☕ <br/>
 - ⛩️ 日本語 enthusiast <br/>
 - 🌱 Feel free to reach me!
